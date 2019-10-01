@@ -1,0 +1,65 @@
+.secondbox {
+    display: flex;
+    margin-top: 3%;
+}
+
+.education,
+.skills,
+.expertise {
+    flex: 1;
+}
+
+.skills ul {
+    list-style: none;
+}
+
+.expertise ul {
+    list-style: none;
+}
+
+#edu {
+    border: 1px solid black;
+    width: 53%;
+    font-weight: bold;
+    color: grey;
+    text-align: center;
+}
+
+#skl {
+    text-align: center;
+    width: 45%;
+    background-color: burlywood;
+}
+
+#exp {
+    border: 1px solid black;
+    width: 61%;
+    font-weight: bold;
+    color: grey;
+    text-align: center;
+}
+
+.line {
+    border: 1px 0px;
+}
+
+#line1,
+#line2 {
+    border: 1px solid grey;
+    width: 23%;
+    height: 0;
+    margin-top: 1%;
+}
+
+.experience {
+    display: flex;
+    margin-top: 5%;
+}
+
+#line3,
+#line4 {
+    border: 1px solid grey;
+    width: 40%;
+    height: 0;
+    margin-top: 1%;
+}

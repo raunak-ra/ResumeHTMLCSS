@@ -1,0 +1,42 @@
+#intdg {
+    font-weight: bold;
+}
+
+#exd {
+    font-weight: bold;
+}
+
+.tfirstsubbox {
+    display: flex;
+}
+
+.interior,
+.country1 {
+    flex: 1;
+}
+
+.country1 {
+    border: 1px solid black;
+    background-color: burlywood;
+    float: right;
+    height: max-content;
+    max-width: 25%;
+}
+
+.exterior {
+    display: flex;
+    justify-content: space-between;
+}
+
+.firstetxt,
+.country2 {
+    flex: 1;
+}
+
+.country2 {
+    border: 1px solid black;
+    background-color: burlywood;
+    float: right;
+    height: max-content;
+    max-width: 25%;
+}

@@ -1,0 +1,17 @@
+.firstbox {
+    display: flex;
+}
+
+.firstsubbox,
+.secondsubbox,
+.thirdsubbox {
+    flex: 1;
+}
+
+header-content {
+    background-color: #b2b7bf;
+}
+
+.secondsubbox {
+    text-align: center;
+}
