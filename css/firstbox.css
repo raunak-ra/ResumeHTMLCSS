@@ -1,10 +1,10 @@
-.firstbox {
+.profile {
     display: flex;
 }
 
-.firstsubbox,
-.secondsubbox,
-.thirdsubbox {
+.profile-para,
+.profile-pic,
+.profile-details {
     flex: 1;
 }
 
@@ -12,6 +12,6 @@ header-content {
     background-color: #b2b7bf;
 }
 
-.secondsubbox {
+.profile-pic {
     text-align: center;
 }
