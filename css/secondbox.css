@@ -1,0 +1,65 @@
+.profile-row {
+    display: flex;
+    margin-top: 3%;
+}
+
+.education,
+.skills,
+.expertise {
+    flex: 1;
+}
+
+.skills ul {
+    list-style: none;
+}
+
+.expertise ul {
+    list-style: none;
+}
+
+#education {
+    border: 1px solid black;
+    width: 53%;
+    font-weight: bold;
+    color: grey;
+    text-align: center;
+}
+
+#skills {
+    text-align: center;
+    width: 45%;
+    background-color: burlywood;
+}
+
+#expertise {
+    border: 1px solid black;
+    width: 61%;
+    font-weight: bold;
+    color: grey;
+    text-align: center;
+}
+
+.line {
+    border: 1px 0px;
+}
+
+#first-line,
+#second-line {
+    border: 1px solid grey;
+    width: 23%;
+    height: 0;
+    margin-top: 1%;
+}
+
+.experience-bar {
+    display: flex;
+    margin-top: 5%;
+}
+
+#third-line,
+#fourth-line {
+    border: 1px solid grey;
+    width: 40%;
+    height: 0;
+    margin-top: 1%;
+}

@@ -1,0 +1,58 @@
+ body {
+     font-family: serif;
+     width: 1024px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ 
+ .grey-box {
+     background-color: grey;
+     padding: 3%;
+ }
+ 
+ .white-box {
+     background-color: white;
+     padding: 2%;
+     width: 50%;
+     margin: 0 auto;
+ }
+ 
+ .title {
+     border: 2px solid black;
+     padding: 1%;
+     width: 97%;
+ }
+ 
+ #name {
+     text-align: center;
+     font-weight: bold;
+ }
+ 
+ #role {
+     font-style: italic;
+     text-align: center;
+ }
+ 
+ .home-logo,
+ .letter-logo,
+ .laptop-logo,
+ .phone-logo {
+     float: right;
+ }
+ 
+ .footer {
+     border: 10px solid burlywood;
+     margin-top: 1%;
+ }
+ 
+ .dashboard {
+     display: flex;
+     padding-top: 50px;
+ }
+ 
+ #exp-title {
+     width: 20%;
+     background-color: burlywood;
+     font-weight: bold;
+     text-align: center;
+ }
