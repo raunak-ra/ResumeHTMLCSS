@@ -1,4 +1,4 @@
-.secondbox {
+.profile-row {
     display: flex;
     margin-top: 3%;
 }
@@ -17,7 +17,7 @@
     list-style: none;
 }
 
-#edu {
+#education {
     border: 1px solid black;
     width: 53%;
     font-weight: bold;
@@ -25,13 +25,13 @@
     text-align: center;
 }
 
-#skl {
+#skills {
     text-align: center;
     width: 45%;
     background-color: burlywood;
 }
 
-#exp {
+#expertise {
     border: 1px solid black;
     width: 61%;
     font-weight: bold;
@@ -43,21 +43,21 @@
     border: 1px 0px;
 }
 
-#line1,
-#line2 {
+#first-line,
+#second-line {
     border: 1px solid grey;
     width: 23%;
     height: 0;
     margin-top: 1%;
 }
 
-.experience {
+.experience-bar {
     display: flex;
     margin-top: 5%;
 }
 
-#line3,
-#line4 {
+#third-line,
+#fourth-line {
     border: 1px solid grey;
     width: 40%;
     height: 0;
