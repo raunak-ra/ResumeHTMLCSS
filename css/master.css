@@ -5,19 +5,19 @@
      margin-right: auto;
  }
  
- .header {
+ .grey-box {
      background-color: grey;
      padding: 3%;
  }
  
- .whitebox {
+ .white-box {
      background-color: white;
      padding: 2%;
      width: 50%;
      margin: 0 auto;
  }
  
- .inner {
+ .title {
      border: 2px solid black;
      padding: 1%;
      width: 97%;
@@ -33,10 +33,10 @@
      text-align: center;
  }
  
- .a,
- .b,
- .c,
- .d {
+ .home-logo,
+ .letter-logo,
+ .laptop-logo,
+ .phone-logo {
      float: right;
  }
  
@@ -45,12 +45,12 @@
      margin-top: 1%;
  }
  
- .zerobox {
+ .dashboard {
      display: flex;
      padding-top: 50px;
  }
  
- #expn {
+ #exp-title {
      width: 20%;
      background-color: burlywood;
      font-weight: bold;
