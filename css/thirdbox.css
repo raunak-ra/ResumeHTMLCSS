@@ -10,9 +10,8 @@
     display: flex;
 }
 
-.interior,
-.country1 {
-    flex: 1;
+.interior {
+    width: 88%;
 }
 
 .country1 {
@@ -28,10 +27,10 @@
     justify-content: space-between;
 }
 
-.firstetxt,
-.country2 {
-    flex: 1;
+.firstext {
+    width: 88%;
 }
+
 
 .country2 {
     border: 1px solid black;
@@ -39,4 +38,9 @@
     float: right;
     height: max-content;
     max-width: 25%;
+}
+
+#ny,
+#sf {
+    text-align: center;
 }
