@@ -1,20 +1,20 @@
-#intdg {
+#interior {
     font-weight: bold;
 }
 
-#exd {
+#exterior {
     font-weight: bold;
 }
 
-.tfirstsubbox {
+.experience-first-panel {
     display: flex;
 }
 
-.interior {
+.interior-details {
     width: 88%;
 }
 
-.country1 {
+.country-details {
     border: 1px solid black;
     background-color: burlywood;
     float: right;
@@ -22,22 +22,13 @@
     max-width: 25%;
 }
 
-.exterior {
+.experience-second-panel {
     display: flex;
     justify-content: space-between;
 }
 
-.firstext {
+.exterior-details {
     width: 88%;
-}
-
-
-.country2 {
-    border: 1px solid black;
-    background-color: burlywood;
-    float: right;
-    height: max-content;
-    max-width: 25%;
 }
 
 #ny,
